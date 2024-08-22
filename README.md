@@ -20,6 +20,6 @@
 - **Databases & Tools:** MySQL, PostgreSQL, MongoDB, Cassandra, Apache Hive, Neo4j
 - :technologist: **Passionate** about leveraging AI and data to drive business innovation
 - :student: **Lifelong learner** committed to continuous professional development
-- :boom: **Connect with me on** [LinkedIn](www.linkedin.com/in/dr-anil-pise-231699b6)
+- :boom: **Connect with me on** [LinkedIn](https://www.linkedin.com/in/dr-anil-pise-231699b6/)
 
 <br>

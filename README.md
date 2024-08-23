@@ -107,3 +107,80 @@
 <p align="center">
   <a href="https://www.credential.net/c9e6d4a2-c541-4033-9356-4ddfbb9d697a?key=531db2cb27e0a01da1a374e30ad0634ef63ea19fe788e58ced3b79e0db0bca0b" target="_blank">Check out the GCP Data Engineer Certification</a>
 </p>
+
+## <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilPise7&theme=tokyonight_duo" alt="Anil Pise's Streak Stats" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Anil Pise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnilPise7&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnilPise7&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Anil Pise's Top Languages" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary> -->
+
+<!-- ---- -->
+	
+<!-- [![Anil Pise's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnilPise7&theme=github)](https://github.com/AnilPise7/github-readme-activity-graph) -->
+
+<!-- </details> -->
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnilPise7&theme=flat&no-bg=true&margin-w=15&margin-h=15" alt="Anil Pise" /></a> </p>
+
+</details>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/AnilPise7/Deep-Learning-Projects.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep-Learning-Projects" />
+    	</a>
+	<a href="https://github.com/AnilPise7/Data-Augmentation-for-Semantic-Segmentation.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Data-Augmentation-for-Semantic-Segmentation&theme=tokyonight" alt="Data-Augmentation-for-Semantic-Segmentation" />
+    	</a>
+	<a href="https://github.com/AnilPise7/Data-Science-Portfolio-Anil-Pise.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Data-Science-Portfolio-Anil-Pise&theme=tokyonight" alt="Data-Science-Portfolio-Anil-Pise" />
+    	</a>
+	<a href="https://github.com/AnilPise7/Indian-Railway-Announcement.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Indian-Railway-Announcement&theme=tokyonight" alt="Indian-Railway-Announcement" />
+    	</a>
+    	<a href="https://github.com/AnilPise7/Repo5">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo5&theme=tokyonight" alt="Repo5" />
+    	</a>
+    	<a href="https://github.com/AnilPise7/Repo6">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo6&theme=tokyonight" alt="Repo6" />
+    	</a>
+    	<a href="https://github.com/AnilPise7/Repo7">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo7&theme=tokyonight" alt="Repo7" />
+    	</a>
+  </p>
+</div>
+</details>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+![snake gif](https://github.com/AnilPise7/AnilPise7/blob/output/github-contribution-grid-snake.svg)
+
+</br></br>

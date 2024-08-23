@@ -55,3 +55,55 @@
   <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"><img alt="VBA" src="https://img.shields.io/badge/VBA%20-%23649A44.svg?style=plastic&logo=microsoft&logoColor=white"></a>
   &emsp;
 </p>
+
+### <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Software_Tools.gif" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Spark" src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%23231F20.svg?style=plastic&logo=apache-hadoop&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=plastic&logo=jenkins&logoColor=white"></a>
+  &emsp;
+ </p>
+
+
+### <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Software_Tools.gif" width = 50px>  </picture> Professional Level Certifications
+
+<p align="center">
+  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/aws-certified-machine-learning-specialty.png" alt="AWS Certification"/>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/7ce5c092-ceea-46d6-bf8e-5a63be8312fa/public_url" target="_blank">Check out the AWS Certification</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/aws-solution-architect.png" alt="AWS Solution Architect Certification"/>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/c47254e6-00e3-47e6-8d75-ce96682cf22e/public_url" target="_blank">Check out the AWS Solution Architect Certification</a>
+</p>
+<p align="center">
+  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPML.png" alt="GCP ML Engineer Certification"/>
+</p>
+<p align="center">
+  <a href="https://www.credential.net/6fa2c09a-a2b9-4a53-8c64-2710a3bc765c?key=4c3c1cff727e2287f1d891a84268e0686cc6ac85f8ff29d499ab623ae198ddbb" target="_blank">Check out the GCP ML Engineer Certification</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPDL.png" alt="GCP Data Engineer Certification"/>
+</p>
+<p align="center">
+  <a href="https://www.credential.net/c9e6d4a2-c541-4033-9356-4ddfbb9d697a?key=531db2cb27e0a01da1a374e30ad0634ef63ea19fe788e58ced3b79e0db0bca0b" target="_blank">Check out the GCP Data Engineer Certification</a>
+</p>

@@ -32,3 +32,26 @@
 	<a href="https://anilpise7.medium.com/"><img src="https://img.shields.io/badge/medium-%23000000.svg?style=plastic&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
+## 🛠️ My Skills
+
+### <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Programming_Languages.gif" width = 50px>  </picture> Programming Languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"></a> 
+  &emsp;
+  <a href="https://www.sql.com/" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23007396.svg?style=plastic&logo=sql&logoColor=white"></a> 
+  &emsp;
+  <a href="https://spark.apache.org/" target="_blank"><img alt="PySpark" src="https://img.shields.io/badge/PySpark%20-%23E25A1C.svg?style=plastic&logo=apache-spark&logoColor=white"></a>
+  &emsp;
+  <a href="https://cloud.google.com/bigquery" target="_blank"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery%20-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2300A300.svg?style=plastic&logo=microsoft-excel&logoColor=white"></a>
+  &emsp;
+  <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"><img alt="VBA" src="https://img.shields.io/badge/VBA%20-%23649A44.svg?style=plastic&logo=microsoft&logoColor=white"></a>
+  &emsp;
+</p>

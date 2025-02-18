@@ -161,6 +161,11 @@
    <a href="https://github.com/AnilPise7/Helmet_Detection_YOLOv8.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Helmet_Detection_YOLOv8&theme=tokyonight" alt="Helmet_Detection_YOLOv8" />
     	</a>
+
+   <a href="https://github.com/AnilPise7/Helmet-Detection-Using-SSD-MobileNetV2-Pretrained-Model-.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Helmet-Detection-Using-SSD-MobileNetV2-Pretrained-Model-&theme=tokyonight" alt="Helmet-Detection-Using-SSD-MobileNetV2-Pretrained-Model-" />
+    	</a>
+     
 	<a href="https://github.com/AnilPise7/Data-Augmentation-for-Semantic-Segmentation.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Data-Augmentation-for-Semantic-Segmentation&theme=tokyonight" alt="Data-Augmentation-for-Semantic-Segmentation" />
     	</a>

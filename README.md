@@ -157,6 +157,10 @@
 	<a href="https://github.com/AnilPise7/Deep-Learning-Projects.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Deep-Learning-Projects&theme=tokyonight" alt="Deep-Learning-Projects" />
     	</a>
+
+   <a href="https://github.com/AnilPise7/Helmet_Detection_YOLOv8.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Helmet_Detection_YOLOv8&theme=tokyonight" alt="Helmet_Detection_YOLOv8" />
+    	</a>
 	<a href="https://github.com/AnilPise7/Data-Augmentation-for-Semantic-Segmentation.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Data-Augmentation-for-Semantic-Segmentation&theme=tokyonight" alt="Data-Augmentation-for-Semantic-Segmentation" />
     	</a>
@@ -165,16 +169,7 @@
     	</a>
 	<a href="https://github.com/AnilPise7/Indian-Railway-Announcement.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Indian-Railway-Announcement&theme=tokyonight" alt="Indian-Railway-Announcement" />
-    	</a>
-    	<a href="https://github.com/AnilPise7/Repo5">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo5&theme=tokyonight" alt="Repo5" />
-    	</a>
-    	<a href="https://github.com/AnilPise7/Repo6">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo6&theme=tokyonight" alt="Repo6" />
-    	</a>
-    	<a href="https://github.com/AnilPise7/Repo7">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnilPise7&repo=Repo7&theme=tokyonight" alt="Repo7" />
-    	</a>
+    	
   </p>
 </div>
 </details>

@@ -98,14 +98,14 @@
   <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPML.png" alt="GCP ML Engineer Certification"/>
 </p>
 <p align="center">
-  <a href="https://www.credential.net/6fa2c09a-a2b9-4a53-8c64-2710a3bc765c?key=4c3c1cff727e2287f1d891a84268e0686cc6ac85f8ff29d499ab623ae198ddbb" target="_blank">Check out the GCP ML Engineer Certification</a>
+  <a href="https://www.credly.com/badges/320ea435-839f-44a6-b991-6611763027a5" target="_blank">Check out the GCP ML Engineer Certification</a>
 </p>
 
 <p align="center">
   <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPDL.png" alt="GCP Data Engineer Certification"/>
 </p>
 <p align="center">
-  <a href="https://www.credential.net/c9e6d4a2-c541-4033-9356-4ddfbb9d697a?key=531db2cb27e0a01da1a374e30ad0634ef63ea19fe788e58ced3b79e0db0bca0b" target="_blank">Check out the GCP Data Engineer Certification</a>
+  <a href="https://www.credly.com/badges/1bb12fbd-654d-4c93-a5f5-d4db14a2617c" target="_blank">Check out the GCP Data Engineer Certification</a>
 </p>
 
 ## <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats

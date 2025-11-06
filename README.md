@@ -11,20 +11,26 @@
 
 <picture> <img align="right" src="https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
-- :office: **Senior Data Scientist** at X-idian, Johannesburg
-🏆 Certified Professional: GCP GenAI Leader, GCP ML Engineer, AWS Solution Architect, AWS Certified Machine Learning Specialist  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" />
+## 🧠 About me  
 
-- :trophy: **Certified Professional:** GCP GenAI Leader, GCP ML Engineer, AWS Solution Architect, AWS Certified Machine Learning Specialist
-- :mortar_board: **PhD in Computer Science:** University of Witwatersrand, Johannesburg, South Africa
-- :computer: **Expertise in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), PySpark, SQL, Regular Expressions, Azure, BigQuery
-- **Data Science:** Data Cleaning, Visualization, EDA, Predictive Modelling, Regression Analysis, Hypothesis Testing 
-- **Machine Learning & NLP:** Supervised Learning, Unsupervised Learning, NLP 
-- **Databases & Tools:** MySQL, PostgreSQL, MongoDB, Cassandra, Apache Hive, Neo4j
-- :technologist: **Passionate** about leveraging AI and data to drive business innovation
-- :student: **Lifelong learner** committed to continuous professional development
-- :boom: **Connect with me on** [LinkedIn](https://www.linkedin.com/in/dr-anil-pise-231699b6/)
+**👨‍💼 Senior Data Scientist** at [X-idian](https://x-idian.github.io/), Johannesburg  
+
+🏆 **Certified Professional:**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="70"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70"/>  
+
+**🎓 PhD in Computer Science** — University of Witwatersrand, Johannesburg, South Africa  
+
+**💡 Expertise:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), PySpark, SQL, Regex, Azure, BigQuery  
+**📊 Data Science:** EDA, Predictive Modelling, Regression, Hypothesis Testing  
+**🤖 ML & NLP:** Supervised, Unsupervised, NLP  
+**🧰 Databases & Tools:** MySQL, PostgreSQL, MongoDB, Cassandra, Apache Hive, Neo4j  
+**🔥 Passionate** about leveraging AI & Data to drive business innovation  
+**📚 Lifelong Learner** committed to professional development  
+
+🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/anil-pise)
+
 
 <br>
 

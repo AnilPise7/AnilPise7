@@ -27,7 +27,7 @@
 **🔥 Passionate** about leveraging AI & Data to drive business innovation  
 **📚 Lifelong Learner** committed to professional development  
 
-🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/anil-pise)
+🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/dr-anil-pise-231699b6/)
 
 
 <br>

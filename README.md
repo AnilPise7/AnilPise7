@@ -21,11 +21,16 @@
 👨‍💼 **Senior Data Scientist** at [X-idian](https://www.x-idian.com/), Johannesburg  
 
 🏆 **Certified Professional:**  
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="70" alt="Google Cloud Logo"/>
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_Logo.svg" width="70" alt="Google Cloud Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70" alt="AWS Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" alt="Azure Logo"/>
 </p>
+
+	
+
 
 🎓 **PhD in Computer Science** — University of Witwatersrand, Johannesburg, South Africa  
 

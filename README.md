@@ -12,7 +12,7 @@
 <picture> <img align="right" src="https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
 
-**👨‍💼 Senior Data Scientist** at [X-idian](https://x-idian.github.io/), Johannesburg  
+**👨‍💼 Senior Data Scientist** at [X-idian](https://www.x-idian.com/), Johannesburg  
 
 🏆 **Certified Professional:**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="70"/>  

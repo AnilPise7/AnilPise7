@@ -12,6 +12,10 @@
 <picture> <img align="right" src="https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
 - :office: **Senior Data Scientist** at X-idian, Johannesburg
+🏆 Certified Professional: GCP GenAI Leader, GCP ML Engineer, AWS Solution Architect, AWS Certified Machine Learning Specialist  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" />
+
 - :trophy: **Certified Professional:** GCP GenAI Leader, GCP ML Engineer, AWS Solution Architect, AWS Certified Machine Learning Specialist
 - :mortar_board: **PhD in Computer Science:** University of Witwatersrand, Johannesburg, South Africa
 - :computer: **Expertise in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), PySpark, SQL, Regular Expressions, Azure, BigQuery

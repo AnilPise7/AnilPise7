@@ -12,7 +12,6 @@
 <picture> <img align="right" src="https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
 - :office: **Senior Data Scientist** at X-idian, Johannesburg
-- :office: **Senior Consultant** at Deloitte, Johannesburg
 - :trophy: **Certified Professional:** GCP GenAI Leader, GCP ML Engineer, AWS Solution Architect, AWS Certified Machine Learning Specialist
 - :mortar_board: **PhD in Computer Science:** University of Witwatersrand, Johannesburg, South Africa
 - :computer: **Expertise in:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), PySpark, SQL, Regular Expressions, Azure, BigQuery
@@ -113,7 +112,7 @@
   <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPDL.png" alt="GCP GenAI Leader Certification"/>
 </p>
 <p align="center">
-  <a href="https://www.credly.com/badges/1bb12fbd-654d-4c93-a5f5-d4db14a2617c" target="_blank">Check out the GCP GenAI Leader Certification</a>
+  <a href="https://www.credly.com/badges/7ec1f810-c1ec-45b2-814d-57555b5016eb" target="_blank">Check out the GCP GenAI Leader Certification</a>
 </p>
 
 ## <picture> <img src = "https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Statistics.gif" width = 50px>  </picture> Github Stats

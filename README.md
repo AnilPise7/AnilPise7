@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/GCPDL.png" alt="GCP GenAI Leader Certification"/>
+  <img src="https://github.com/AnilPise7/AnilPise7/blob/main/assets/generative-ai-leader-certification%20(1).png" alt="GCP GenAI Leader Certification"/>
 </p>
 <p align="center">
   <a href="https://www.credly.com/badges/7ec1f810-c1ec-45b2-814d-57555b5016eb" target="_blank">Check out the GCP GenAI Leader Certification</a>

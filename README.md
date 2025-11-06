@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Dr. Anil Pise <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=855&height=100&lines=PhD+in+Computer+Science;AI+Researcher+and+Keynote+Speaker;Senior+Consultant+%7C+Data+Engineering+and+Data+Science+Expert;Machine+Learning+%7C+Deep+Learning+Specialist;Certified+GCP+ML+Engineer+Professional;Certified+GCP+Data+Engineer+Professional;Certified+AWS+Solution+Architect+Professional;AWS+Certified+Machine+Learning+Specialist;Experience+in+Azure+AI+Services;Predictive+Modeling+Enthusiast;Always+learning+new+things">
-  </a>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=950&height=100&lines=PhD+in+Computer+Science;AI+Researcher+and+Keynote+Speaker;Senior+Consultant+and+Data+Engineer;Machine+Learning+%7C+Deep+Learning+Specialist;Certified+GCP+ML+Engineer+Professional;Certified+GCP+Data+Engineer+Professional;Certified+AWS+Solution+Architect+Professional;AWS+Certified+Machine+Learning+Specialist;Experience+in+Azure+AI+Services;Predictive+Modeling+Enthusiast;Always+learning+new+things">
+</a>
+
+
 </p>
 
 <p align="center"> 

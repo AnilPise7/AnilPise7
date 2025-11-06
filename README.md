@@ -11,15 +11,13 @@
 
 <picture> <img align="right" src="https://github.com/AnilPise7/AnilPise7/tree/a284ec43867b5e9826aa1e95ec076e907f952483/Images/Right_Side.gif" width = 250px></picture>
 
-## 🧠 About me  
 
 **👨‍💼 Senior Data Scientist** at [X-idian](https://x-idian.github.io/), Johannesburg  
 
 🏆 **Certified Professional:**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-logo.svg" width="70"/>  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70"/>  
-
+  
 **🎓 PhD in Computer Science** — University of Witwatersrand, Johannesburg, South Africa  
 
 **💡 Expertise:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV), PySpark, SQL, Regex, Azure, BigQuery  

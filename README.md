@@ -23,14 +23,15 @@
 
 👨‍💼 **Senior Data Scientist** at [X-idian](https://www.x-idian.com/), Johannesburg  
 
-🏆 **Certified Professional:**  
 
 
+🏆 <b>Certified Professional:</b>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" width="70" alt="Google Cloud Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70" alt="AWS Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" alt="Azure Logo">
+  <img src="https://raw.githubusercontent.com/AnilPise7/AnilPise7/main/assets/google-cloud.png" width="70" alt="Google Cloud Logo">
+  <img src="https://raw.githubusercontent.com/AnilPise7/AnilPise7/main/assets/aws.png" width="70" alt="AWS Logo">
+  <img src="https://raw.githubusercontent.com/AnilPise7/AnilPise7/main/assets/azure.png" width="70" alt="Azure Logo">
 </p>
+
 
 
 
